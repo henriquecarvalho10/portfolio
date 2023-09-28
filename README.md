@@ -1,8 +1,6 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-(https://1drv.ms/v/s!ApgDKAgXOi5hid4-FxqYyUFJcl0pmg?e=HrWaRP)
-
 ## Ferramentas utilizadas:
 
 * HTML
